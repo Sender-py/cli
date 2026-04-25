@@ -34,6 +34,6 @@ python sender.py getwithtoken --t example.com --auth "Bearer token"
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange)
 
 ## Advantages
-Open-Source
-Bearer-Tokens Friendly
-Fully Free
+Open-Source <br>
+Bearer-Tokens Friendly <br>
+Fully Free <br>
