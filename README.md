@@ -15,7 +15,7 @@ DELETE Requests (with bearer token)
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/Sender-py/cli.git
 pip install -r requirements.txt
 ```
 
