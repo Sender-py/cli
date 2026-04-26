@@ -12,8 +12,16 @@ banner = r"""
 """
 @click.group()
 def cli():
- print(banner)
+ print(Fore.WHITE + banner)
  print(Fore.RED + "Welcome to Sender.py!")
+ print(Fore.GREEN + r"""
+Usage:
+python sender.py method --t target
+With Bearer Token:
+python sender.py method --t target --auth bearertoken
+ """)
+ print(Fore.BLUE + "Made", Fore.WHITE + "In", Fore.RED + "France")
+ print(Fore.WHITE + "https://github.com/Sender-py")
 
 ## GET 
 @cli.command()
