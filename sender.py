@@ -16,9 +16,9 @@ def cli():
  print(Fore.RED + "Welcome to Sender.py!")
  print(Fore.GREEN + r"""
 Usage:
-python sender.py get --t target
+python sender.py get --t example.com
 With Bearer Token:
-python sender.py getwithtoken --t target --auth bearertoken
+python sender.py getwithtoken --t example.com --auth 123456789
  """)
  print(Fore.BLUE + "Made", Fore.WHITE + "In", Fore.RED + "France")
  print(Fore.WHITE + "https://github.com/Sender-py")
