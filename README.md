@@ -3,14 +3,14 @@ A open-source, french, simple and fully free HTTP client.
 ![Preview](/Assets/preview.png)
 
 ## Options
-GET Requests
-POST Requests
-PUT Requests
+GET Requests<br>
+POST Requests<br>
+PUT Requests<br>
 DELETE Requests
-GET Requests (with bearer token)
-POST Requests (with bearer token)
-PUT Requests (with bearer token)
-DELETE Requests (with bearer token)
+GET Requests (with bearer token)<br>
+POST Requests (with bearer token)<br>
+PUT Requests (with bearer token)<br>
+DELETE Requests (with bearer token)<br>
 
 ## Installation
 
