@@ -41,6 +41,7 @@ def post(t, data):
     t = "http://" + t
  r = requests.post(t, json=json.loads(data))
  print(Fore.GREEN + "HTTP Code:", r.status_code)
+ print(r.json())
 ## PUT
 @cli.command()
 @click.option('--t', help='Target')
